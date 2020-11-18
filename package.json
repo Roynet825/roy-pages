@@ -1,0 +1,36 @@
+{
+  "name": "roy-pages",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "roy-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/Roynet825/roy-pages#readme",
+  "bugs": {
+    "url": "https://github.com/Roynet825/roy-pages/issues"
+  },
+  "license": "MIT",
+  "author": "luo_yi <roynet825@gmail.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roynet825/roy-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
